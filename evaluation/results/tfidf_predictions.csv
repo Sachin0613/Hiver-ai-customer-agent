@@ -1,0 +1,109 @@
+annotation_id,conversation_id,tweet_id,clean_text,intent_label,predicted_intent
+dev_00040,239640,239645,@AmazonHelp Email from link?,feedback_or_other,feedback_or_other
+dev_00298,2931934,2845568,@115850 Price Please @115850 @791498,payment_billing,payment_billing
+dev_00332,2102494,2094043,"@AmazonHelp Nel mio, vero e con prime, l'ordine risulta in consegna il 10 novembre. Il quello simulato invece https://t.co/dczRI8YTwn",prime_membership,prime_membership
+dev_00197,2819935,2819938,@AmazonHelp are you guys really going to make me return 3 books on your dime in order to price match your price 2 days after my order? Seems like the most un-@115821 thing to do.,returns_refunds,payment_billing
+dev_00302,150604,150602,"@AmazonHelp Punkt 1 OK habe selbst früher im Bereich Logistik Gearbeitet Kann ich Nachvollziehen Wenn Ware "" aufgeteilt wird auf verschieden Lager"" Punkt 2 &gt; Mir selbst würde es wenig ausmachen ABER die Kids die Enttäuscht rum sitzen nachdem ich Gesagt habe KOMMT heute DA Prime Versand ;)",prime_membership,prime_membership
+dev_00269,1253339,1253338,"@AmazonHelp Yes, that's the one. I was setting up my tab. in the hospital and seem to have added a bunch of apps that charge / I do not use.",payment_billing,delivery_tracking
+dev_00458,2599767,2599764,@130737 @AmazonHelp Amazon team said wait 5 days after5 days they said we won't refund you amount,returns_refunds,returns_refunds
+dev_00315,2885302,2885303,@AmazonHelp I live in japan and I requested invitation on 11/8 for the echo plus. But I still never received an invitation. Can you please give us status update?#AmazonEcho #amazonjp #AmazonPrime,prime_membership,product_or_listing
+dev_00498,2787717,2787706,@115821 FAILS when it comes to delivering a birthday gift card to my daughter - LOST IN TRANSIT &amp; customer service from India waste my time😡 https://t.co/qLg6Ourgmv,delivery_tracking,seller_or_customer_service
+dev_00501,256666,256667,"@AmazonHelp customer care is not responding good.If today they will fail to deliver, then for sure I m going to consumer forum.I am tired of following",seller_or_customer_service,seller_or_customer_service
+dev_00070,1505501,1505503,@115821 #wrong delivery of product #have to pay for shipping the product back to the seller #amazon agreed to pay the shipping charges first but gave reasons later # cannot get through them # waiting from 4 months for the payment #provided the details#no reply,payment_billing,payment_billing
+dev_00405,492133,492125,@AmazonHelp Market place seller,seller_or_customer_service,seller_or_customer_service
+dev_00452,933286,933287,@115850 when wiil i get my refund????😡😡😡 https://t.co/j52OoUymY7,returns_refunds,returns_refunds
+dev_00171,1466061,1466068,"@AmazonHelp En chat, oui",feedback_or_other,feedback_or_other
+dev_00134,2388916,2388914,"@AmazonHelp Déjà fait, on m'a promis un renvoi avec livraison ce jour et qui ne se fera pour finir qu'entre le 16 et le 20 (super, non ? j'aurais passé une semaine coincée à la maison à attendre le livreur). Habitant à moins de 10km d'un centre de stockage, c'est plutôt la loose.",feedback_or_other,feedback_or_other
+dev_00299,2983672,2983673,@AmazonHelp Where to get invoice ..,payment_billing,payment_billing
+dev_00381,382593,382592,@AmazonHelp Nope but the seller said they have issued it,seller_or_customer_service,seller_or_customer_service
+dev_00525,963284,963279,@115821 your customer service sucks.,seller_or_customer_service,seller_or_customer_service
+dev_00466,814321,814324,@AmazonHelp will it be refunded??,returns_refunds,feedback_or_other
+dev_00402,312411,312409,@AmazonHelp I need help with a product,product_or_listing,product_or_listing
+dev_00099,2946862,2946865,"Dear @115821 @AmazonHelp, please stop using @2150 as one of your carriers. They lost 2 of my packages in less than 2 months. That's just unacceptable.",delivery_tracking,seller_or_customer_service
+dev_00375,2803293,2803294,"@8434 Hey guys, having issues with my second pair of soundsports - essentially the point where the wire meets the aux shorted and only one headphone works (no excess water etc). Purchased from Bose Amazon in March 17. Any help? Love the product, want to stay a user.",product_or_listing,product_or_listing
+dev_00376,2856686,2856685,@115830 thanks for almost ruining a 5 year olds Christmas by trying to deliver an unwrapped box with the product on full display! Lucky a Neighbour took it in or the Santa illusion would’ve been ruined! Nice one amazon. 👍,product_or_listing,product_or_listing
+dev_00242,478501,478498,@115821 To whom it may concern I asked for a device from the market and after payment of the amount was sent a message to me you receive the application after 18 days of deduction amount means wait 18 days to receive the request and I within Saudi Arabia thanx,payment_billing,payment_billing
+dev_00293,2453247,2453245,@AmazonHelp I got charged.....,payment_billing,payment_billing
+dev_00399,2875661,1208757,@115850 Seems like this feature is broken for me 😫 https://t.co/0DVz2YsoCK,product_or_listing,product_or_listing
+dev_00465,741636,740931,@AmazonHelp I want to return it....,returns_refunds,returns_refunds
+dev_00252,2553813,2553817,"Bonjour @AmazonHelp, Un produit que j’ai précommandé (mais que je ne désire plus) vient de mettre envoyé. Comment faire pour le renvoyer ? Y’aura-t-il des frais à ma charge ? Merci d’avance :)",payment_billing,feedback_or_other
+dev_00329,1722495,343687,@AmazonHelp J'achetais beaucoup chez vous et je suis en Prime mais ça va changer.,prime_membership,prime_membership
+dev_00443,248679,248682,@115850 I want my money back from Amazon pay .please help,returns_refunds,returns_refunds
+dev_00488,954901,954891,"@AmazonHelp I honestly think your customer service is on a par with @868 and @118101 for being the worst in the UK. Congratulations for making my wife waste 2 days off work , and me 3 hours so far tonight on the phone. I have spent £350 and received a car tow rope",product_or_listing,seller_or_customer_service
+dev_00210,1114938,1114937,@115850 I have order Redmi 4 mobile &amp; I get soap bar inside the box. My order no. is 408-3426490-5239526. Very poor service from you.,order_issue,order_issue
+dev_00025,432963,432965,".@115830 Clear instructions to leave items with concierge but “you were out” email. Been home all day, no call on entry system.",feedback_or_other,delivery_tracking
+dev_00504,288191,288193,@AmazonHelp @115850 do you not provide a complaint no after raising an issue? Or confirm the issue is raised? CCE Mr. hemant INFORMED SO,seller_or_customer_service,payment_billing
+dev_00483,472355,472353,@AmazonHelp Halli hallo ihr Schnuckelmäuse 👋 Der zweite Zustellversuch hatte dann geklappt nachdem ich meinen Wunschnachbarn eingetragen hatte 👍 Wünsch euch 1 schön 1. Dezember &amp; DAMKE für euern Support 🎄❤🎅,seller_or_customer_service,feedback_or_other
+dev_00421,124787,124780,@AmazonHelp I have received only one reply that case is handled by highest escalation team who has confirmed refund in one email and denied in second. No integrity @115851 @1560,returns_refunds,returns_refunds
+dev_00019,2904361,2903510,"@AmazonHelp Répondre à l'email en scannant les documents ? Ils demandent d'envoyé un fax mais je n'ai absolument aucune idée de comment envoyé un fax, je saisis aussi pas bien pas les documents à fournir, pour une demande de sécurité pareil la procédure est très flou je trouve",feedback_or_other,feedback_or_other
+dev_00386,1209898,1209895,@AmazonHelp Warranty for 2 years with product https://t.co/qAuczaaabT,product_or_listing,feedback_or_other
+dev_00203,239978,239979,"@AmazonHelp @82323 The item was preordered April 15th, according to my order. Not sure why a Beta code has not been sent, and why customer service was rude.",order_issue,seller_or_customer_service
+dev_00311,2721677,2721679,"@AmazonHelp Warum muss ich als Prime-Mitglied bei Verkauf&amp;Versand durch Amazon für Verpackung und Versand € 3,60 zahlen wenn ich eine Ware um rund € 350.— kaufe??? #WTF",prime_membership,prime_membership
+dev_00502,269490,269495,How long does your customer service take to reply a claim? It’s been 24 hours already @117634 I need my reviews back,seller_or_customer_service,seller_or_customer_service
+dev_00075,2478874,2478873,"@115821 Delivery Services, this is not how you deliver a package. Good thing I saw it before the water from the wet grass you put it in leaked through to the items inside. https://t.co/qyqJ3aJMvw",delivery_tracking,delivery_tracking
+dev_00297,2855228,2855229,@120474 do you provide vat invoices?,payment_billing,payment_billing
+dev_00232,1384350,1384347,@AmazonHelp Order # 402-6873700-4019561,order_issue,order_issue
+dev_00265,837842,837837,@AmazonHelp Also as per rules no one can sell at highr price then at least it's ur responsibility tht u had to tell the seller before they join amazon.,payment_billing,seller_or_customer_service
+dev_00176,2747074,398011,@Tesco Send me a free copy,feedback_or_other,feedback_or_other
+dev_00024,402563,402562,@AmazonHelp Original account was closed when trying to use amazon pay on @116076 website.Flagged as suspicious.Since then 8 calls to customer support,account_access,seller_or_customer_service
+dev_00127,718409,718410,@115821 keep in mind you said a signature would be required and so I waited and waited and no one showed up! Now your only solution is for me to file a police report?!? Seriously?,feedback_or_other,payment_billing
+dev_00292,1621089,665476,@115850 Whts da price,payment_billing,payment_billing
+dev_00159,2930148,2930147,Once again @115830 choose to use @126705 and the parcel doesn’t arrive when specified. 2 parcels...1 day...&amp; nothing was correct 😩 https://t.co/ur0YodB2PF,delivery_tracking,delivery_tracking
+dev_00476,2512876,2512875,@AmazonHelp Refund my remaing money...,returns_refunds,returns_refunds
+dev_00247,1158996,1158997,"@115850 show me a seller who is selling dis item for ₹599, d price which u r showing. #AmazonGreatIndianFestival #DiwaliKiTayyari #Amazon https://t.co/oqBOXDUZhh",payment_billing,payment_billing
+dev_00130,2226463,2226464,"@122924 @116316 @116316 zudem sind die Boten von @122924 unfreundlich, kommen auch mal mit einer Zigarette im Mund an die Tür, verlangen, dass man runter kommt um die Pakete selber zu tragen....",feedback_or_other,feedback_or_other
+dev_00216,1880199,1880200,@115830 thanks for helping resolve my issue. I've cancelled my #Prime subscription.,prime_membership,prime_membership
+dev_00059,2933586,2933586,"@AmazonHelp Thank you, I sent an email.",feedback_or_other,feedback_or_other
+dev_00535,2569206,2569202,Shit customer service by @115830 today.,seller_or_customer_service,seller_or_customer_service
+dev_00529,1911073,1911068,@AmazonHelp I talked to customer service,seller_or_customer_service,seller_or_customer_service
+dev_00237,2452852,2452849,@AmazonHelp These are my order details,order_issue,order_issue
+dev_00384,881114,881113,"@AmazonHelp The customer service rep, contacted the seller on my behalf, the seller responded, but the response wasn’t of value. P2",seller_or_customer_service,seller_or_customer_service
+dev_00060,77549,77550,@AmazonHelp All I got was a message saying sorry it wasn't delivered and there is no new delivery date from ParcelPool and to wait because it's usually delivered in a few days..,delivery_tracking,delivery_tracking
+dev_00021,311056,311048,@115850 i don't know why you put restrictions on adding of money in Amazon pay. Help me to out this my id is __email__,feedback_or_other,payment_billing
+dev_00357,2869619,2869620,amazon prime配送めっちゃ速え 想像以上,prime_membership,prime_membership
+dev_00161,197951,197965,@AmazonHelp Yes I did.,feedback_or_other,feedback_or_other
+dev_00445,333161,333154,@AmazonHelp You still haven't refunded the item cost. This matter has been going on for last 3 to weeks.,returns_refunds,delivery_tracking
+dev_00531,2179746,2179744,@115940 @hulu_support @AmazonHelp,seller_or_customer_service,feedback_or_other
+dev_00410,1500683,1500681,@AmazonHelp The product from yourselves,product_or_listing,product_or_listing
+dev_00178,2835632,2835626,@AmazonHelp Appreciated,feedback_or_other,feedback_or_other
+dev_00028,1120465,1120470,@AmazonHelp I sent two emails on Sunday morning (10.30) a reply email stated 12 hours and the following morning I then phoned and was told half an hour,product_or_listing,feedback_or_other
+dev_00473,1400586,1400587,@115830 @AmazonHelp A want ma money back,returns_refunds,returns_refunds
+dev_00303,276493,269868,"@AmazonHelp @130687 El primer día no llegaron, al parecer la máquina se fue a dar un paseo y no estaba en su sitio para recibir los paquetes. Curioso https://t.co/SdGxytu7Ad",prime_membership,feedback_or_other
+dev_00344,911525,911521,いつの間にかAmazon prime会員に・・・。それも年間・・・。,prime_membership,feedback_or_other
+dev_00337,2709932,2709931,"@AmazonHelp He comprado muchísimas veces en Amazon y es la primera vez que me pasa! No dudo que se vayan a quedar el dinero, pero justo me dejan sin limite.",prime_membership,prime_membership
+dev_00259,2985494,2985495,@116618 Now y'all just took $107.14 out of my account. Why are y'all fukking up my streaming????!!! Ain't had a problem until a payment was collected . Dont start the bs🙄👀🤔,payment_billing,payment_billing
+dev_00128,1494276,1494275,Después de tanto retraso llegó el pedido que hice a @116928. Quiero hacer hincapié en el buen trato y la atención dada con mi caso hasta que han podido informarme sobre dónde estaba mi pedido y el tiempo en recibirlo. Así da gusto. 😀 https://t.co/EsIBirsOPZ,feedback_or_other,prime_membership
+dev_00142,431576,431575,@115850 No response to my query even after bringing the concern to your natice on FB. https://t.co/ebmKnMqdku #Shittycustomerservice,seller_or_customer_service,payment_billing
+dev_00144,843646,843647,El paquete de @115821 me ha llegado 2 días antes de lo previsto 😄😄.. #blackfriday,feedback_or_other,feedback_or_other
+dev_00109,1278141,1278142,"@AmazonHelp AMZL . As in, AMaZinglyLate.",delivery_tracking,feedback_or_other
+dev_00388,1339668,1339669,@77774 @115850 @115821 Never expected Amazon to market a Counterfeit product in India. https://t.co/WjKuf4hWks https://t.co/7UoDrL7Hde,product_or_listing,product_or_listing
+dev_00119,2841781,2841780,@AmazonHelp Just been delivered. Thanks.,delivery_tracking,feedback_or_other
+dev_00196,2754645,2754646,Mi favorite kind of mail. I honestly can't believe this arrived in less than 12 hours considering I ordered several things. @115821 winning at life. https://t.co/3mCMbtEJkn,delivery_tracking,feedback_or_other
+dev_00374,2693905,2693903,"@AmazonHelp The only reason I wanted to buy the product is because of the HiFi Dac, which the blue one has and not the black one. You should have separated the product.",product_or_listing,product_or_listing
+dev_00316,2894587,2894582,"@AmazonHelp Oui, j'ai reçu un mail aujourd'hui a 14:30 donc déjà quasiment 1semaines après l'envoi.. Je pense avoir été très patient et gentil mais ça ne va pas continuer longtemps si ça doit prendre 1semaines de + ! Je paie un prime a 50e pour être livré rapidement et je dois att 2semaines?",prime_membership,prime_membership
+dev_00355,2825512,2825513,amazon prime musicにダンガンロンパの曲もあるのか、有能…,prime_membership,prime_membership
+dev_00397,2545446,2545447,@115821 have had three kindles sent to replace my daughter's under your kids Fire warranty. None of them work. Can you please send one that works??? Farce.,returns_refunds,delivery_tracking
+dev_00239,2913167,2913170,Amazon really lost my order😑,order_issue,order_issue
+dev_00113,2297560,2297561,@115821 delivery sucks!,delivery_tracking,delivery_tracking
+dev_00010,2287318,2287317,"Hey @AmazonHelp, now we've got a Teen and a Kid account for the same person. Any way to merge or convert the kid account? And what happens in a few years when she's no longer a teen?",account_access,payment_billing
+dev_00223,436337,436341,@AmazonHelp Orders id' s deleted,order_issue,feedback_or_other
+dev_00457,1446372,1446370,@AmazonHelp Yes! I've asked for a return/replacement. Would be delighted if it could be replaced with a fresh piece.,returns_refunds,returns_refunds
+dev_00053,2260736,2260735,@AmazonHelp __email__ is the email,feedback_or_other,feedback_or_other
+dev_00250,2317872,2317870,@AmazonHelp Hi it’s not my account it’s my mums account. Yes she received the email however it is asking for billing information to be faxed for the card that was used. It was not her card that was used it was my partners card. How do we resolve this?,account_access,delivery_tracking
+dev_00114,2480936,2480934,@AmazonHelp Out for delivery,delivery_tracking,delivery_tracking
+dev_00251,2477434,2477433,@AmazonHelp hope so as i m keep following with amazon from last 1 month and seems that amazon is very reluctant on this and after some days my product is going to expire as i can not exchange it due to lack of invoice so Amazon will have to pay this compensation.,payment_billing,payment_billing
+dev_00031,1448059,1448062,@AmazonHelp Recently I talked to a cc in call one he said me that account goes to hold and told me to wait 1 day for unhold what I do now please say,account_access,delivery_tracking
+dev_00124,319398,319432,@AmazonHelp Here is an open letter @115851 @amazonhelp since only 1 sided view on how one cannot move funds frm Amazon pay is being told to me. https://t.co/iYjthQJVML,feedback_or_other,feedback_or_other
+dev_00016,2827197,2827198,"@AmazonHelp I just bought a laptop on lightning deal, and I've been locked out of my account for all deals on cyber monday, is this how you usually treat long term customer? I've replied to the email.",account_access,payment_billing
+dev_00409,1398885,1398884,@AmazonHelp Tomaron los otros productos,product_or_listing,feedback_or_other
+dev_00117,2646224,2646225,@AmazonHelp Its two days late tho😒,delivery_tracking,delivery_tracking
+dev_00183,173531,173532,"@AmazonHelp I noticed the PS4 Slims are out of stock, but I did see a ""back order"" option yesterday but it wouldn't let me purchase one. I don't see it now, does this mean I can't buy the console for $200 seeing how they're sold out currently?",order_issue,delivery_tracking
+dev_00181,86166,86167,When your Boss orders a swimming noodle for a 🎄 project &amp; the box is big enough for you to fit in it @115830 surely this is a waste?😂😩🤷🏻‍♀️ https://t.co/3wcxT6OUTU,order_issue,payment_billing
+dev_00309,1771853,1771853,@AmazonHelp Just to wait a couple more days. I’m patient but it’s just I’m a Prime customer and spend a lot with Amazon so was disappointing to be told it was on its way by 8pm to only be rescheduled at 6.15pm. Apparently it’s coming today now.,prime_membership,delivery_tracking
+dev_00496,2761705,2761705,"@AmazonHelp Aramex is the carrier. It was supposed to arrive by the 17th, though your customer care says I should ignore that and the real date is the 22nd. So why did I get a mail asking for feedback on the 18th. Anyway, it's not arriving before the 22nd either.",delivery_tracking,delivery_tracking
+dev_00201,95384,95373,"Hey @115821 , how do I avail of a refund when the item is now in the Philippines? I ordered 2 memory cards but got two lens caps.",returns_refunds,returns_refunds
+dev_00034,2296835,2296835,"@AmazonHelp I've been on chat with two different reps that could not help. Will delete Amazon app now, close Amazon Visa account in the AM.",account_access,payment_billing
+dev_00296,2698927,2698928,@AmazonHelp It won't turn on or charge,payment_billing,payment_billing
+dev_00106,1189462,1189461,Did not received my package @115850.,delivery_tracking,delivery_tracking
+dev_00104,930231,930231,@AmazonHelp Sent DM with tracking info.,delivery_tracking,feedback_or_other
+dev_00517,2628864,2628866,"@119076 @115817 Had this happen before. You can get it from their Customer Care Center: 8440 Ardwick Ardmore Rd Landover, MD 20785",seller_or_customer_service,seller_or_customer_service

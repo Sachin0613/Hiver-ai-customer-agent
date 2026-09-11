@@ -1,0 +1,158 @@
+{
+  "majority": {
+    "accuracy": 0.11,
+    "macro_f1": 0.022022022022022022,
+    "macro_precision": 0.012222222222222223,
+    "macro_recall": 0.1111111111111111,
+    "examples": 200,
+    "per_intent": {
+      "account_access": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 21.0
+      },
+      "delivery_tracking": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 22.0
+      },
+      "feedback_or_other": {
+        "precision": 0.11,
+        "recall": 1.0,
+        "f1-score": 0.1981981981981982,
+        "support": 22.0
+      },
+      "order_issue": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 21.0
+      },
+      "payment_billing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 16.0
+      },
+      "prime_membership": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 24.0
+      },
+      "product_or_listing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 24.0
+      },
+      "returns_refunds": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 23.0
+      },
+      "seller_or_customer_service": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 27.0
+      },
+      "accuracy": 0.11,
+      "macro avg": {
+        "precision": 0.012222222222222223,
+        "recall": 0.1111111111111111,
+        "f1-score": 0.022022022022022022,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.0121,
+        "recall": 0.11,
+        "f1-score": 0.0218018018018018,
+        "support": 200.0
+      }
+    },
+    "model": "majority_class",
+    "majority_intent": "feedback_or_other"
+  },
+  "tfidf": {
+    "accuracy": 0.54,
+    "macro_f1": 0.5019894741810081,
+    "macro_precision": 0.6754910634627966,
+    "macro_recall": 0.5400222317492849,
+    "examples": 200,
+    "per_intent": {
+      "account_access": {
+        "precision": 1.0,
+        "recall": 0.047619047619047616,
+        "f1-score": 0.09090909090909091,
+        "support": 21.0
+      },
+      "delivery_tracking": {
+        "precision": 0.53125,
+        "recall": 0.7727272727272727,
+        "f1-score": 0.6296296296296297,
+        "support": 22.0
+      },
+      "feedback_or_other": {
+        "precision": 0.3023255813953488,
+        "recall": 0.5909090909090909,
+        "f1-score": 0.4,
+        "support": 22.0
+      },
+      "order_issue": {
+        "precision": 1.0,
+        "recall": 0.23809523809523808,
+        "f1-score": 0.38461538461538464,
+        "support": 21.0
+      },
+      "payment_billing": {
+        "precision": 0.3611111111111111,
+        "recall": 0.8125,
+        "f1-score": 0.5,
+        "support": 16.0
+      },
+      "prime_membership": {
+        "precision": 0.8888888888888888,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7619047619047619,
+        "support": 24.0
+      },
+      "product_or_listing": {
+        "precision": 0.625,
+        "recall": 0.20833333333333334,
+        "f1-score": 0.3125,
+        "support": 24.0
+      },
+      "returns_refunds": {
+        "precision": 0.782608695652174,
+        "recall": 0.782608695652174,
+        "f1-score": 0.782608695652174,
+        "support": 23.0
+      },
+      "seller_or_customer_service": {
+        "precision": 0.5882352941176471,
+        "recall": 0.7407407407407407,
+        "f1-score": 0.6557377049180327,
+        "support": 27.0
+      },
+      "accuracy": 0.54,
+      "macro avg": {
+        "precision": 0.6754910634627966,
+        "recall": 0.5400222317492849,
+        "f1-score": 0.5019894741810081,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.6816606342149263,
+        "recall": 0.54,
+        "f1-score": 0.5106424907818351,
+        "support": 200.0
+      }
+    },
+    "model": "tfidf_logistic_regression",
+    "training_examples": 540
+  }
+}

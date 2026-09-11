@@ -1,0 +1,10 @@
+,account_access,delivery_tracking,feedback_or_other,order_issue,payment_billing,prime_membership,product_or_listing,returns_refunds,seller_or_customer_service
+account_access,0,0,21,0,0,0,0,0,0
+delivery_tracking,0,0,22,0,0,0,0,0,0
+feedback_or_other,0,0,22,0,0,0,0,0,0
+order_issue,0,0,21,0,0,0,0,0,0
+payment_billing,0,0,16,0,0,0,0,0,0
+prime_membership,0,0,24,0,0,0,0,0,0
+product_or_listing,0,0,24,0,0,0,0,0,0
+returns_refunds,0,0,23,0,0,0,0,0,0
+seller_or_customer_service,0,0,27,0,0,0,0,0,0

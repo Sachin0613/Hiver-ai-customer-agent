@@ -1,0 +1,455 @@
+{
+  "dataset": "data\\raw\\twcs.csv",
+  "n_slim_rows": 2811774,
+  "n_brands": 108,
+  "candidates": [
+    "AppleSupport",
+    "AmazonHelp",
+    "Uber_Support",
+    "SpotifyCares",
+    "Delta"
+  ],
+  "recommended_brand": "AmazonHelp",
+  "score_weights": {
+    "volume": 0.2,
+    "resolution": 0.25,
+    "quality": 0.2,
+    "diversity": 0.15,
+    "response_usefulness": 0.2
+  },
+  "candidate_scores": [
+    {
+      "brand": "AmazonHelp",
+      "conversation_count": 82556,
+      "resolved_conversations": 82556,
+      "mixed_brand_conversations": 310,
+      "avg_conversation_length": 4.530766994524929,
+      "median_conversation_length": 3.0,
+      "max_conversation_length": 448,
+      "resolved_conversation_rate": 1.0,
+      "multi_turn_resolved_rate": 0.620911865884975,
+      "total_tweets": 374042,
+      "company_responses": 169840,
+      "customer_messages": 203830,
+      "response_rate": 0.7603198744051416,
+      "dm_template_rate": 0.005210918114143921,
+      "useful_reply_rate": 0.9776674937965261,
+      "ngram_diversity": 0.17472118959107807,
+      "volume_score": 1.0,
+      "resolution_score": 0.7603198744051416,
+      "quality_score": 0.6854559329424875,
+      "diversity_score": 0.0,
+      "response_usefulness_score": 0.9776674937965261,
+      "overall_score": 0.7227046539490881
+    },
+    {
+      "brand": "AppleSupport",
+      "conversation_count": 80717,
+      "resolved_conversations": 80717,
+      "mixed_brand_conversations": 165,
+      "avg_conversation_length": 2.959810201072884,
+      "median_conversation_length": 2.0,
+      "max_conversation_length": 282,
+      "resolved_conversation_rate": 1.0,
+      "multi_turn_resolved_rate": 0.3486750003097241,
+      "total_tweets": 238907,
+      "company_responses": 106860,
+      "customer_messages": 131881,
+      "response_rate": 0.808478855938308,
+      "dm_template_rate": 0.5138094053247076,
+      "useful_reply_rate": 0.8345359542174671,
+      "ngram_diversity": 0.37624007936507936,
+      "volume_score": 0.9803937655600703,
+      "resolution_score": 0.808478855938308,
+      "quality_score": 0.42433750015486205,
+      "diversity_score": 0.3767466719567244,
+      "response_usefulness_score": 0.8345359542174671,
+      "overall_score": 0.7064851587645655
+    },
+    {
+      "brand": "Uber_Support",
+      "conversation_count": 41923,
+      "resolved_conversations": 41923,
+      "mixed_brand_conversations": 75,
+      "avg_conversation_length": 3.066335901533764,
+      "median_conversation_length": 2.0,
+      "max_conversation_length": 534,
+      "resolved_conversation_rate": 1.0,
+      "multi_turn_resolved_rate": 0.35989790806955607,
+      "total_tweets": 128550,
+      "company_responses": 56270,
+      "customer_messages": 72204,
+      "response_rate": 0.7642512880172844,
+      "dm_template_rate": 0.35478260869565215,
+      "useful_reply_rate": 0.7386335403726708,
+      "ngram_diversity": 0.709613478691774,
+      "volume_score": 0.4102380577407852,
+      "resolution_score": 0.7642512880172844,
+      "quality_score": 0.42994895403477806,
+      "diversity_score": 1.0,
+      "response_usefulness_score": 0.7386335403726708,
+      "overall_score": 0.6568269324339678
+    },
+    {
+      "brand": "SpotifyCares",
+      "conversation_count": 28280,
+      "resolved_conversations": 28277,
+      "mixed_brand_conversations": 56,
+      "avg_conversation_length": 3.249257425742574,
+      "median_conversation_length": 2.0,
+      "max_conversation_length": 354,
+      "resolved_conversation_rate": 0.9998939179632249,
+      "multi_turn_resolved_rate": 0.3712871287128713,
+      "total_tweets": 91889,
+      "company_responses": 43265,
+      "customer_messages": 48589,
+      "response_rate": 0.855852147605425,
+      "dm_template_rate": 0.3106361829025845,
+      "useful_reply_rate": 0.9105367793240556,
+      "ngram_diversity": 0.23443314314065988,
+      "volume_score": 0.06752456485627316,
+      "resolution_score": 0.855852147605425,
+      "quality_score": 0.43564356435643564,
+      "diversity_score": 0.11163360318761438,
+      "response_usefulness_score": 0.9105367793240556,
+      "overall_score": 0.5134490590868513
+    },
+    {
+      "brand": "Delta",
+      "conversation_count": 26168,
+      "resolved_conversations": 26166,
+      "mixed_brand_conversations": 261,
+      "avg_conversation_length": 3.3626566799143993,
+      "median_conversation_length": 2.0,
+      "max_conversation_length": 209,
+      "resolved_conversation_rate": 0.9999235707734637,
+      "multi_turn_resolved_rate": 0.4259400794863956,
+      "total_tweets": 87994,
+      "company_responses": 42253,
+      "customer_messages": 45505,
+      "response_rate": 0.7940665860894407,
+      "dm_template_rate": 0.15843059349391606,
+      "useful_reply_rate": 0.8572138068040726,
+      "ngram_diversity": 0.2876237623762376,
+      "volume_score": 0.0,
+      "resolution_score": 0.7940665860894407,
+      "quality_score": 0.46297003974319784,
+      "diversity_score": 0.21107534186925825,
+      "response_usefulness_score": 0.8572138068040726,
+      "overall_score": 0.494214717112203
+    }
+  ],
+  "themes": {
+    "AppleSupport": [
+      {
+        "theme_bigram": "applesupport_iphone",
+        "count": 133
+      },
+      {
+        "theme_bigram": "ios_update",
+        "count": 89
+      },
+      {
+        "theme_bigram": "iphone_plus",
+        "count": 72
+      },
+      {
+        "theme_bigram": "applesupport_fix",
+        "count": 69
+      },
+      {
+        "theme_bigram": "applesupport_yes",
+        "count": 66
+      },
+      {
+        "theme_bigram": "applesupport_ios",
+        "count": 64
+      },
+      {
+        "theme_bigram": "every_time",
+        "count": 59
+      },
+      {
+        "theme_bigram": "new_update",
+        "count": 53
+      },
+      {
+        "theme_bigram": "question_mark",
+        "count": 48
+      },
+      {
+        "theme_bigram": "battery_life",
+        "count": 48
+      },
+      {
+        "theme_bigram": "ever_since",
+        "count": 47
+      },
+      {
+        "theme_bigram": "applesupport_phone",
+        "count": 45
+      },
+      {
+        "theme_bigram": "high_sierra",
+        "count": 43
+      },
+      {
+        "theme_bigram": "updated_phone",
+        "count": 43
+      },
+      {
+        "theme_bigram": "new_ios",
+        "count": 42
+      }
+    ],
+    "AmazonHelp": [
+      {
+        "theme_bigram": "customer_service",
+        "count": 87
+      },
+      {
+        "theme_bigram": "amazonhelp_yes",
+        "count": 64
+      },
+      {
+        "theme_bigram": "amazon_prime",
+        "count": 60
+      },
+      {
+        "theme_bigram": "amazonhelp_amazon",
+        "count": 48
+      },
+      {
+        "theme_bigram": "amazonhelp_already",
+        "count": 47
+      },
+      {
+        "theme_bigram": "customer_care",
+        "count": 46
+      },
+      {
+        "theme_bigram": "next_day",
+        "count": 41
+      },
+      {
+        "theme_bigram": "day_delivery",
+        "count": 37
+      },
+      {
+        "theme_bigram": "day_shipping",
+        "count": 36
+      },
+      {
+        "theme_bigram": "delivery_date",
+        "count": 31
+      },
+      {
+        "theme_bigram": "amazonhelp_order",
+        "count": 30
+      },
+      {
+        "theme_bigram": "amazonhelp_done",
+        "count": 28
+      },
+      {
+        "theme_bigram": "prime_membership",
+        "count": 26
+      },
+      {
+        "theme_bigram": "amazonhelp_amazonhelp",
+        "count": 24
+      },
+      {
+        "theme_bigram": "don_know",
+        "count": 23
+      }
+    ],
+    "Uber_Support": [
+      {
+        "theme_bigram": "uber_support",
+        "count": 2661
+      },
+      {
+        "theme_bigram": "support_uber",
+        "count": 91
+      },
+      {
+        "theme_bigram": "customer_service",
+        "count": 90
+      },
+      {
+        "theme_bigram": "uber_driver",
+        "count": 86
+      },
+      {
+        "theme_bigram": "support_sent",
+        "count": 79
+      },
+      {
+        "theme_bigram": "support_already",
+        "count": 61
+      },
+      {
+        "theme_bigram": "support_email",
+        "count": 59
+      },
+      {
+        "theme_bigram": "last_night",
+        "count": 57
+      },
+      {
+        "theme_bigram": "uber_eats",
+        "count": 55
+      },
+      {
+        "theme_bigram": "support_driver",
+        "count": 50
+      },
+      {
+        "theme_bigram": "support_need",
+        "count": 46
+      },
+      {
+        "theme_bigram": "phone_number",
+        "count": 42
+      },
+      {
+        "theme_bigram": "support_done",
+        "count": 41
+      },
+      {
+        "theme_bigram": "cancellation_fee",
+        "count": 38
+      },
+      {
+        "theme_bigram": "promo_code",
+        "count": 37
+      }
+    ],
+    "SpotifyCares": [
+      {
+        "theme_bigram": "spotifycares_spotify",
+        "count": 57
+      },
+      {
+        "theme_bigram": "spotify_premium",
+        "count": 54
+      },
+      {
+        "theme_bigram": "premium_account",
+        "count": 49
+      },
+      {
+        "theme_bigram": "spotifycares_there",
+        "count": 48
+      },
+      {
+        "theme_bigram": "family_plan",
+        "count": 42
+      },
+      {
+        "theme_bigram": "web_player",
+        "count": 40
+      },
+      {
+        "theme_bigram": "spotify_account",
+        "count": 38
+      },
+      {
+        "theme_bigram": "spotifycares_tried",
+        "count": 34
+      },
+      {
+        "theme_bigram": "spotifycares_don",
+        "count": 34
+      },
+      {
+        "theme_bigram": "student_discount",
+        "count": 34
+      },
+      {
+        "theme_bigram": "there_way",
+        "count": 34
+      },
+      {
+        "theme_bigram": "need_help",
+        "count": 33
+      },
+      {
+        "theme_bigram": "spotifycares_trying",
+        "count": 32
+      },
+      {
+        "theme_bigram": "credit_card",
+        "count": 31
+      },
+      {
+        "theme_bigram": "spotifycares_sent",
+        "count": 31
+      }
+    ],
+    "Delta": [
+      {
+        "theme_bigram": "delta_flight",
+        "count": 176
+      },
+      {
+        "theme_bigram": "customer_service",
+        "count": 112
+      },
+      {
+        "theme_bigram": "delta_delta",
+        "count": 93
+      },
+      {
+        "theme_bigram": "first_class",
+        "count": 52
+      },
+      {
+        "theme_bigram": "delta_there",
+        "count": 51
+      },
+      {
+        "theme_bigram": "flight_delayed",
+        "count": 43
+      },
+      {
+        "theme_bigram": "flight_attendant",
+        "count": 42
+      },
+      {
+        "theme_bigram": "gate_agent",
+        "count": 42
+      },
+      {
+        "theme_bigram": "fly_delta",
+        "count": 42
+      },
+      {
+        "theme_bigram": "delta_sent",
+        "count": 41
+      },
+      {
+        "theme_bigram": "delta_yes",
+        "count": 41
+      },
+      {
+        "theme_bigram": "delta_great",
+        "count": 40
+      },
+      {
+        "theme_bigram": "flying_delta",
+        "count": 39
+      },
+      {
+        "theme_bigram": "delta_need",
+        "count": 38
+      },
+      {
+        "theme_bigram": "change_flight",
+        "count": 31
+      }
+    ]
+  },
+  "seed": 42
+}

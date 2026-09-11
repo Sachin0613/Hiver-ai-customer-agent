@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.14814814814814814,
+  "macro_f1": 0.02867383512544803,
+  "examples": 540,
+  "baseline": "majority_class",
+  "majority_intent": "feedback_or_other"
+}
