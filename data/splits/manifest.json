@@ -1,0 +1,19 @@
+{
+  "random_seed": 42,
+  "selected_brand": "AmazonHelp",
+  "development_conversations": 57789,
+  "retrieval_conversations": 12383,
+  "golden_pool_conversations": 12384,
+  "golden_pool_target_examples": 200,
+  "creation_timestamp": "2026-09-11T07:04:14.663531+00:00",
+  "split_method": "conversation_level_random_permutation",
+  "fractions": {
+    "development": 0.7,
+    "retrieval": 0.15,
+    "golden": 0.15
+  },
+  "temporal_holdout_created": false,
+  "conversation_overlap": false,
+  "golden_retrieval_leakage": false,
+  "golden_development_leakage": false
+}

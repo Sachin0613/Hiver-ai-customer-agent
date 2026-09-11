@@ -1,0 +1,2 @@
+analysis,cutoff,conversations,customer_messages,company_responses,created_as_output,reason
+newest_15_percent_conversation_holdout,2017-11-27T13:03:08.500000+00:00,12384,28498,22668,False,Random split remains the main evaluation design; this is a robustness comparison only.

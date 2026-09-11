@@ -1,0 +1,5 @@
+metric,value
+normalized_customer_text_overlap_count,464
+development_customer_unique_texts,140542
+retrieval_customer_unique_texts,22853
+golden_customer_unique_texts,29878
