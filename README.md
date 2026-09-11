@@ -28,7 +28,8 @@ AUTO_HANDLE / ESCALATE
        ↓
 Grounded AI Suggested Reply
        ↓
-Evidence + Uncertainty
+Evidence + Uncertainty```
+
 ````
 
 ## Dataset & Brand
