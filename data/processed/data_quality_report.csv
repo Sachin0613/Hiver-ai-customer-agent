@@ -1,0 +1,14 @@
+metric,value
+raw_record_count,2811774.0
+selected_brand_record_count,374042.0
+customer_message_count,203598.0
+company_response_count,169840.0
+conversation_count,82556.0
+resolved_candidate_count,81539.0
+missing_text_count_selected_brand,0.0
+duplicate_tweet_id_count,0.0
+invalid_tweet_id_count,0.0
+low_quality_message_count,21.0
+average_conversation_length,4.530766994524929
+median_conversation_length,3.0
+conversation_pair_count,168814.0

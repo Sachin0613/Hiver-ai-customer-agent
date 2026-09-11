@@ -1,0 +1,15 @@
+{
+  "dataset": "data\\raw\\twcs.csv",
+  "selected_brand": "AmazonHelp",
+  "schema": {
+    "tweet_id": "tweet_id",
+    "in_response_to_tweet_id": "in_response_to_tweet_id",
+    "author_id": "author_id",
+    "created_at": "created_at",
+    "response_tweet_id": "response_tweet_id",
+    "text": "text",
+    "inbound": "inbound"
+  },
+  "conversation_id_method": "root tweet_id reached by following in_response_to_tweet_id; orphan roots use their own tweet_id",
+  "golden_evaluation_set_created": false
+}

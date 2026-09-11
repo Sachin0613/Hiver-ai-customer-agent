@@ -1,0 +1,21 @@
+{
+  "source": "data/splits/development.csv",
+  "golden_pool_used": false,
+  "customer_messages_analyzed": 143133,
+  "conversations_analyzed": 57789,
+  "taxonomy_status": "first_pass_manual_review_completed_adjudication_recommended",
+  "intent_names": [
+    "delivery_tracking",
+    "order_issue",
+    "returns_refunds",
+    "payment_billing",
+    "prime_membership",
+    "account_access",
+    "product_or_listing",
+    "seller_or_customer_service",
+    "feedback_or_other"
+  ],
+  "annotation_queue_rows": 540,
+  "annotation_status": "reviewed",
+  "seed": 42
+}
