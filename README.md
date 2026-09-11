@@ -1,5 +1,3 @@
-Yes — use this **short one-page README**. It is designed to fit on one screen/page much better while still covering the important take-home points.
-
 ````markdown
 # Hiver AI Customer Support Agent
 
