@@ -1,0 +1,12 @@
+{
+  "source": "data/splits/golden_pool.csv",
+  "target_size": 200,
+  "actual_size": 200,
+  "random_seed": 42,
+  "unique_conversations": 200,
+  "labels_completed": true,
+  "manual_review_required": false,
+  "labeling_status": "first_pass_manual_review_completed",
+  "retrieval_corpus_used": false,
+  "development_data_used_for_sampling": false
+}

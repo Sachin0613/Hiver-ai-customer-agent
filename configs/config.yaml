@@ -1,0 +1,47 @@
+# Phase 1: paths and inspection settings only.
+# Column names are discovered from the CSV header, not assumed here.
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  reports_dir: docs
+  results_dir: evaluation/results
+
+inspection:
+  sample_rows: 5
+  top_brands: 25
+  # Brands with at least this many company tweets are "sufficient volume" candidates.
+  min_company_tweets: 20000
+  # Random seed used later for splits; recorded now so sampling stays reproducible.
+  random_seed: 42
+
+brand_analysis:
+  # Chunked CSV reads keep text out of the full-corpus pass.
+  chunksize: 200000
+  top_n_table: 20
+  n_candidates: 5
+  min_resolved_conversations: 8000
+  sample_conversations_per_brand: 12
+  text_sample_per_brand: 4000
+
+preprocessing:
+  selected_brand: AmazonHelp
+  chunksize: 200000
+
+data_split:
+  selected_brand: AmazonHelp
+
+intent_discovery:
+  sample_per_bucket_style: 20
+
+retrieval:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  batch_size: 32
+
+escalation:
+  min_intent_confidence: 0.65
+  min_evidence_score: 0.45
+  max_evidence_score_spread: 0.12
+
+golden_set:
+  target_size: 200

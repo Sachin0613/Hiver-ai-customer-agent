@@ -1,0 +1,8 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "index_type": "IndexFlatIP",
+  "normalized_embeddings": true,
+  "rows": 25105,
+  "metadata_file": "retrieval_metadata.csv",
+  "golden_pool_included": false
+}
