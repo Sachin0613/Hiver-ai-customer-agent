@@ -38,7 +38,7 @@ Dataset: [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtve
 
 The local corpus contains approximately **2.8M tweets**.
 
-Phase 2 selected **AmazonHelp** empirically based on conversation volume, response coverage, and suitability for historical support retrieval.
+Next Step selected **AmazonHelp** empirically based on conversation volume, response coverage, and suitability for historical support retrieval.
 
 AmazonHelp statistics:
 
@@ -266,7 +266,7 @@ docs/decision_log.md
 
 ## Current Status
 
-**Phase 20 implementation complete.**
+**implementation complete.**
 
 Implemented:
 
